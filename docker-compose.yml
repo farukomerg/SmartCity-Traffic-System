@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+
+  dispatcher:
+    build: ./gateway/Dispatcher.Api
+    ports:
+      - "5000:80"
+
+  trafficservice:
+    build: ./services/TrafficService.Api
+    ports:
+      - "5001:80"
+
+  fineservice:
+    build: ./services/FineService.Api
+    ports:
+      - "5002:80"
+
+  authservice:
+    build: ./services/AuthService.Api
+    ports:
+      - "5003:80"

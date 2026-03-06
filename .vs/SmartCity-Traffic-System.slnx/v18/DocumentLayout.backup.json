@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76C6556C-78E3-499B-B783-9AC7E798BD65}|Auth.UnitTests\\Auth.UnitTests.csproj|c:\\users\\msi\\desktop\\smartcity-traffic-system\\auth.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C6556C-78E3-499B-B783-9AC7E798BD65}|Auth.UnitTests\\Auth.UnitTests.csproj|solutionrelative:auth.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00B9283-EE66-4184-902E-F175BC10334C}|Traffic.Infrastructure\\Traffic.Infrastructure.csproj|c:\\users\\msi\\desktop\\smartcity-traffic-system\\traffic.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00B9283-EE66-4184-902E-F175BC10334C}|Traffic.Infrastructure\\Traffic.Infrastructure.csproj|solutionrelative:traffic.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C996ED-44A8-4B4E-BFA4-6FC4C9CFC209}|Traffic.Application\\Traffic.Application.csproj|c:\\users\\msi\\desktop\\smartcity-traffic-system\\traffic.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C996ED-44A8-4B4E-BFA4-6FC4C9CFC209}|Traffic.Application\\Traffic.Application.csproj|solutionrelative:traffic.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F2B2E6-AB47-4796-9561-250156604F19}|Fine.Application\\Fine.Application.csproj|c:\\users\\msi\\desktop\\smartcity-traffic-system\\fine.application\\fine.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{72F2B2E6-AB47-4796-9561-250156604F19}|Fine.Application\\Fine.Application.csproj|solutionrelative:fine.application\\fine.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5243C9ED-64AF-4F8F-AA06-4F66AE4E8651}|Fine.Infrastructure\\Fine.Infrastructure.csproj|c:\\users\\msi\\desktop\\smartcity-traffic-system\\fine.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5243C9ED-64AF-4F8F-AA06-4F66AE4E8651}|Fine.Infrastructure\\Fine.Infrastructure.csproj|solutionrelative:fine.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72F2B2E6-AB47-4796-9561-250156604F19}|Fine.Application\\Fine.Application.csproj|c:\\users\\msi\\desktop\\smartcity-traffic-system\\fine.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72F2B2E6-AB47-4796-9561-250156604F19}|Fine.Application\\Fine.Application.csproj|solutionrelative:fine.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043F50C9-DB7F-46B1-ADB8-7737900960FA}|Auth.Infrastructure\\Auth.Infrastructure.csproj|c:\\users\\msi\\desktop\\smartcity-traffic-system\\auth.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043F50C9-DB7F-46B1-ADB8-7737900960FA}|Auth.Infrastructure\\Auth.Infrastructure.csproj|solutionrelative:auth.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8F9FF23-0558-4174-8CDE-F455F1D257EE}|Auth.Application\\Auth.Application.csproj|c:\\users\\msi\\desktop\\smartcity-traffic-system\\auth.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F9FF23-0558-4174-8CDE-F455F1D257EE}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F79737B-8611-486A-8E50-6996EBE2B1E2}|Dispatcher.Application\\Dispatcher.Application.csproj|c:\\users\\msi\\desktop\\smartcity-traffic-system\\dispatcher.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F79737B-8611-486A-8E50-6996EBE2B1E2}|Dispatcher.Application\\Dispatcher.Application.csproj|solutionrelative:dispatcher.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3D90845-4DB1-446D-B1F5-B6E9FB9B9102}|Dispatcher.Infrastructure\\Dispatcher.Infrastructure.csproj|c:\\users\\msi\\desktop\\smartcity-traffic-system\\dispatcher.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3D90845-4DB1-446D-B1F5-B6E9FB9B9102}|Dispatcher.Infrastructure\\Dispatcher.Infrastructure.csproj|solutionrelative:dispatcher.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD446BD9-A2E8-4CA2-9F0B-ACF20B25842B}|FineService.Api\\FineService.Api.csproj|c:\\users\\msi\\desktop\\smartcity-traffic-system\\fineservice.api\\fineservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD446BD9-A2E8-4CA2-9F0B-ACF20B25842B}|FineService.Api\\FineService.Api.csproj|solutionrelative:fineservice.api\\fineservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E06877CC-0E9B-4535-B68D-A1BA0B59D6D9}|Dispatcher.Tests\\Dispatcher.Tests.csproj|c:\\users\\msi\\desktop\\smartcity-traffic-system\\dispatcher.tests\\dispatcher.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E06877CC-0E9B-4535-B68D-A1BA0B59D6D9}|Dispatcher.Tests\\Dispatcher.Tests.csproj|solutionrelative:dispatcher.tests\\dispatcher.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660658BA-B0B2-42BD-B5F4-B1A7D1D2D50D}|AuthService.Api\\AuthService.Api.csproj|c:\\users\\msi\\desktop\\smartcity-traffic-system\\authservice.api\\data\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660658BA-B0B2-42BD-B5F4-B1A7D1D2D50D}|AuthService.Api\\AuthService.Api.csproj|solutionrelative:authservice.api\\data\\mongocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660658BA-B0B2-42BD-B5F4-B1A7D1D2D50D}|AuthService.Api\\AuthService.Api.csproj|c:\\users\\msi\\desktop\\smartcity-traffic-system\\authservice.api\\authservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{660658BA-B0B2-42BD-B5F4-B1A7D1D2D50D}|AuthService.Api\\AuthService.Api.csproj|solutionrelative:authservice.api\\authservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\Auth.UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Auth.UnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\Auth.UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "Auth.UnitTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T19:35:31.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\Traffic.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Traffic.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\Traffic.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Traffic.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T19:29:02.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\Traffic.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Traffic.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\Traffic.Application\\Class1.cs",
+              "RelativeToolTip": "Traffic.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T19:28:37.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fine.Application",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\Fine.Application\\Fine.Application.csproj",
+              "RelativeDocumentMoniker": "Fine.Application\\Fine.Application.csproj",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\Fine.Application\\Fine.Application.csproj",
+              "RelativeToolTip": "Fine.Application\\Fine.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-06T19:26:05.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\Fine.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Fine.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\Fine.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Fine.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T19:25:59.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\Fine.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Fine.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\Fine.Application\\Class1.cs",
+              "RelativeToolTip": "Fine.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T19:25:21.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\Auth.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Auth.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\Auth.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Auth.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T19:23:29.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\Auth.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Auth.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\Auth.Application\\Class1.cs",
+              "RelativeToolTip": "Auth.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T19:21:46.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\Dispatcher.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Dispatcher.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\Dispatcher.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Dispatcher.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T16:49:49.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\Dispatcher.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Dispatcher.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\Dispatcher.Application\\Class1.cs",
+              "RelativeToolTip": "Dispatcher.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T16:49:05.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FineService.Api",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\FineService.Api\\FineService.Api.csproj",
+              "RelativeDocumentMoniker": "FineService.Api\\FineService.Api.csproj",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\FineService.Api\\FineService.Api.csproj",
+              "RelativeToolTip": "FineService.Api\\FineService.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-06T16:43:23.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dispatcher.Tests",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\Dispatcher.Tests\\Dispatcher.Tests.csproj",
+              "RelativeDocumentMoniker": "Dispatcher.Tests\\Dispatcher.Tests.csproj",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\Dispatcher.Tests\\Dispatcher.Tests.csproj",
+              "RelativeToolTip": "Dispatcher.Tests\\Dispatcher.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-06T16:39:25.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MongoContext.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\AuthService.Api\\Data\\MongoContext.cs",
+              "RelativeDocumentMoniker": "AuthService.Api\\Data\\MongoContext.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\AuthService.Api\\Data\\MongoContext.cs",
+              "RelativeToolTip": "AuthService.Api\\Data\\MongoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T16:37:16.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthService.Api",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\AuthService.Api\\AuthService.Api.csproj",
+              "RelativeDocumentMoniker": "AuthService.Api\\AuthService.Api.csproj",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\SmartCity-Traffic-System\\AuthService.Api\\AuthService.Api.csproj",
+              "RelativeToolTip": "AuthService.Api\\AuthService.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-06T16:34:40.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

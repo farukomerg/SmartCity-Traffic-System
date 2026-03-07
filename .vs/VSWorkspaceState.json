@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Dispatcher",
+    "\\Dispatcher\\src",
+    "\\Dispatcher\\src\\Dispatcher.Api",
+    "\\Dispatcher\\src\\Dispatcher.Api\\Dispatcher.Api",
+    "\\Dispatcher\\tests",
+    "\\Dispatcher\\tests\\Dispatcher.IntegrationTests"
+  ],
+  "SelectedNode": "\\Dispatcher\\tests\\Dispatcher.IntegrationTests\\AuthorizationTests.cs",
+  "PreviewInSolutionExplorer": false
+}
